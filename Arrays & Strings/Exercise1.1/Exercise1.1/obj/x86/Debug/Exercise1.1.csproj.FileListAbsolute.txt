@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/Exercise1.1/Exercise1.1/bin/Debug/Exercise1.1.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/Exercise1.1/Exercise1.1/bin/Debug/Exercise1.1.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/Exercise1.1/Exercise1.1/obj/x86/Debug/Exercise1.1.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/Exercise1.1/Exercise1.1/obj/x86/Debug/Exercise1.1.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/Exercise1.1/Exercise1.1/obj/x86/Debug/Exercise1.1.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/Exercise1.1/Exercise1.1/obj/x86/Debug/Exercise1.1.pdb
