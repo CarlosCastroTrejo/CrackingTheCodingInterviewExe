@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/URLify1.2/URLify1.2/bin/Debug/URLify1.2.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/URLify1.2/URLify1.2/bin/Debug/URLify1.2.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/URLify1.2/URLify1.2/obj/x86/Debug/URLify1.2.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/URLify1.2/URLify1.2/obj/x86/Debug/URLify1.2.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/URLify1.2/URLify1.2/obj/x86/Debug/URLify1.2.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/URLify1.2/URLify1.2/obj/x86/Debug/URLify1.2.pdb

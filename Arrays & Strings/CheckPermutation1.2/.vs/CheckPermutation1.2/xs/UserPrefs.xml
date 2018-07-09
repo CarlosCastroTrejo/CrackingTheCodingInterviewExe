@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F860B83A-23C6-43D6-8127-74B6FDBB1057}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckPermutation1.2/Program.cs">
+    <Files>
+      <File FileName="CheckPermutation1.2/Program.cs" Line="11" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CheckPermutation1.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
