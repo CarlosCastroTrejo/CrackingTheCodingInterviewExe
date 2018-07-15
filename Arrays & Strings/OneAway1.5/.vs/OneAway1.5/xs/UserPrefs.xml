@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B69CC0BC-746F-4E3E-A49A-3A8320BB64E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OneAway1.5/Program.cs">
+    <Files>
+      <File FileName="OneAway1.5/Program.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OneAway1.5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

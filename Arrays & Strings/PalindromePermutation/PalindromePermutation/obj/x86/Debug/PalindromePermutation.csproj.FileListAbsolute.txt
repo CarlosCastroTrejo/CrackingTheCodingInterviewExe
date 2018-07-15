@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/PalindromePermutation/PalindromePermutation/bin/Debug/PalindromePermutation.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/PalindromePermutation/PalindromePermutation/bin/Debug/PalindromePermutation.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/PalindromePermutation/PalindromePermutation/obj/x86/Debug/PalindromePermutation.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/PalindromePermutation/PalindromePermutation/obj/x86/Debug/PalindromePermutation.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/PalindromePermutation/PalindromePermutation/obj/x86/Debug/PalindromePermutation.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/PalindromePermutation/PalindromePermutation/obj/x86/Debug/PalindromePermutation.pdb

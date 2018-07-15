@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{65EB8BC1-78BB-4434-991C-3D172AB1651C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringCompression1.6/Program.cs">
+    <Files>
+      <File FileName="StringCompression1.6/Program.cs" Line="16" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StringCompression1.6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
