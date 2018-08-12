@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/RemoveDups2.1/RemoveDups2.1/obj/x86/Debug/RemoveDups2.1.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/RemoveDups2.1/RemoveDups2.1/obj/x86/Debug/RemoveDups2.1.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/RemoveDups2.1/RemoveDups2.1/bin/Debug/RemoveDups2.1.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/RemoveDups2.1/RemoveDups2.1/bin/Debug/RemoveDups2.1.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/RemoveDups2.1/RemoveDups2.1/obj/x86/Debug/RemoveDups2.1.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/RemoveDups2.1/RemoveDups2.1/obj/x86/Debug/RemoveDups2.1.pdb

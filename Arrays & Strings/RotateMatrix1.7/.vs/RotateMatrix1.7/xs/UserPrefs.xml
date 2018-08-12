@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E23805F9-6327-4B37-B9ED-B6BA23D5206C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RotateMatrix1.7/Program.cs">
+    <Files>
+      <File FileName="RotateMatrix1.7/Program.cs" Line="45" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RotateMatrix1.7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

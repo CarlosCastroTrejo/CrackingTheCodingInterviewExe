@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{764034AA-E889-45E5-BFD7-67C7FD1B4A52}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeleteMiddleNode2.3/Program.cs">
+    <Files>
+      <File FileName="DeleteMiddleNode2.3/Program.cs" Line="30" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.DeleteMiddleNode2.3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

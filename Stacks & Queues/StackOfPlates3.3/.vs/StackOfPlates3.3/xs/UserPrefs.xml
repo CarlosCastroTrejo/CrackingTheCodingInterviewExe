@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4CAE557B-30B1-4186-B83A-003EB8792FAB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackOfPlates3.3/Program.cs">
+    <Files>
+      <File FileName="StackOfPlates3.3/Program.cs" Line="57" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StackOfPlates3.3 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

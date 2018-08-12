@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/RotateMatrix1.7/RotateMatrix1.7/bin/Debug/RotateMatrix1.7.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/RotateMatrix1.7/RotateMatrix1.7/bin/Debug/RotateMatrix1.7.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/RotateMatrix1.7/RotateMatrix1.7/obj/x86/Debug/RotateMatrix1.7.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/RotateMatrix1.7/RotateMatrix1.7/obj/x86/Debug/RotateMatrix1.7.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/RotateMatrix1.7/RotateMatrix1.7/obj/x86/Debug/RotateMatrix1.7.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/RotateMatrix1.7/RotateMatrix1.7/obj/x86/Debug/RotateMatrix1.7.pdb

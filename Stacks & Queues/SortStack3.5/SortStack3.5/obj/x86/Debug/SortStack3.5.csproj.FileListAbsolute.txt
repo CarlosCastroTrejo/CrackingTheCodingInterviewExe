@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/SortStack3.5/SortStack3.5/bin/Debug/SortStack3.5.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/SortStack3.5/SortStack3.5/bin/Debug/SortStack3.5.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/SortStack3.5/SortStack3.5/obj/x86/Debug/SortStack3.5.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/SortStack3.5/SortStack3.5/obj/x86/Debug/SortStack3.5.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/SortStack3.5/SortStack3.5/obj/x86/Debug/SortStack3.5.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/SortStack3.5/SortStack3.5/obj/x86/Debug/SortStack3.5.pdb

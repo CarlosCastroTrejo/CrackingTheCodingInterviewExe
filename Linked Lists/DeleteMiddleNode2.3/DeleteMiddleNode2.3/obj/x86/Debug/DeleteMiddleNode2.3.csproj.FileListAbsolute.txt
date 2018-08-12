@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/DeleteMiddleNode2.3/DeleteMiddleNode2.3/bin/Debug/DeleteMiddleNode2.3.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/DeleteMiddleNode2.3/DeleteMiddleNode2.3/bin/Debug/DeleteMiddleNode2.3.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/DeleteMiddleNode2.3/DeleteMiddleNode2.3/obj/x86/Debug/DeleteMiddleNode2.3.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/DeleteMiddleNode2.3/DeleteMiddleNode2.3/obj/x86/Debug/DeleteMiddleNode2.3.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/DeleteMiddleNode2.3/DeleteMiddleNode2.3/obj/x86/Debug/DeleteMiddleNode2.3.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Linked Lists/DeleteMiddleNode2.3/DeleteMiddleNode2.3/obj/x86/Debug/DeleteMiddleNode2.3.pdb

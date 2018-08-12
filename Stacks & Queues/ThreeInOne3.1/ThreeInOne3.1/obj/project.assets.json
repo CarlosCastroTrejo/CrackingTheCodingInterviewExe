@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Xamarin.IoT.Sdk/1.0.0": {
+        "type": "package",
+        "build": {
+          "build/net45/Xamarin.IoT.Sdk.props": {},
+          "build/net45/Xamarin.IoT.Sdk.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Xamarin.IoT.Sdk/1.0.0": {
+      "sha512": "0O1N13darsMOJR8dkVFZUBBU3gdtZJb+6ALUIb4UwUTLpQOdvsM+5qkY9GG+rAkAi8Stm/sdJbw8mhSWC0mnFQ==",
+      "type": "package",
+      "path": "xamarin.iot.sdk/1.0.0",
+      "files": [
+        "build/.DS_Store",
+        "build/net20/.DS_Store",
+        "build/net20/Xamarin.IoT.Sdk.props",
+        "build/net20/Xamarin.IoT.Sdk.targets",
+        "build/net35/.DS_Store",
+        "build/net35/Xamarin.IoT.Sdk.props",
+        "build/net35/Xamarin.IoT.Sdk.targets",
+        "build/net40/.DS_Store",
+        "build/net40/Xamarin.IoT.Sdk.props",
+        "build/net40/Xamarin.IoT.Sdk.targets",
+        "build/net45/.DS_Store",
+        "build/net45/Xamarin.IoT.Sdk.props",
+        "build/net45/Xamarin.IoT.Sdk.targets",
+        "build/net462/.DS_Store",
+        "build/net462/Xamarin.IoT.Sdk.props",
+        "build/net462/Xamarin.IoT.Sdk.targets",
+        "build/netstandard1.3/.DS_Store",
+        "build/netstandard1.3/Xamarin.IoT.Sdk.props",
+        "build/netstandard1.3/Xamarin.IoT.Sdk.targets",
+        "build/netstandard1.4/.DS_Store",
+        "build/netstandard1.4/Xamarin.IoT.Sdk.props",
+        "build/netstandard1.4/Xamarin.IoT.Sdk.targets",
+        "build/netstandard1.6/.DS_Store",
+        "build/netstandard1.6/Xamarin.IoT.Sdk.props",
+        "build/netstandard1.6/Xamarin.IoT.Sdk.targets",
+        "xamarin.iot.sdk.1.0.0.nupkg.sha512",
+        "xamarin.iot.sdk.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "Xamarin.IoT.Sdk >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/carlosemilianocastrotrejo/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/ThreeInOne3.1/ThreeInOne3.1/ThreeInOne3.1.csproj",
+      "projectName": "ThreeInOne3.1",
+      "projectPath": "/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/ThreeInOne3.1/ThreeInOne3.1/ThreeInOne3.1.csproj",
+      "packagesPath": "/Users/carlosemilianocastrotrejo/.nuget/packages/",
+      "outputPath": "/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/ThreeInOne3.1/ThreeInOne3.1/obj",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/carlosemilianocastrotrejo/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "Xamarin.IoT.Sdk": {
+            "target": "Package",
+            "version": "1.0.0"
+          }
+        }
+      }
+    }
+  }
+}

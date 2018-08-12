@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/ZeroMatrix1.8/ZeroMatrix1.8/bin/Debug/ZeroMatrix1.8.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/ZeroMatrix1.8/ZeroMatrix1.8/bin/Debug/ZeroMatrix1.8.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/ZeroMatrix1.8/ZeroMatrix1.8/obj/x86/Debug/ZeroMatrix1.8.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/ZeroMatrix1.8/ZeroMatrix1.8/obj/x86/Debug/ZeroMatrix1.8.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/ZeroMatrix1.8/ZeroMatrix1.8/obj/x86/Debug/ZeroMatrix1.8.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/ZeroMatrix1.8/ZeroMatrix1.8/obj/x86/Debug/ZeroMatrix1.8.pdb

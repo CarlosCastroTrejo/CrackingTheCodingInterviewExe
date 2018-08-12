@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C2F223CE-62C9-414F-9C1C-79380064D60D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ZeroMatrix1.8/Program.cs">
+    <Files>
+      <File FileName="ZeroMatrix1.8/Program.cs" Line="37" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ZeroMatrix1.8 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

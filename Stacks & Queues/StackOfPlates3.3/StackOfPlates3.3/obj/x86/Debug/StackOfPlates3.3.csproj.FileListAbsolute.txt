@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/StackOfPlates3.3/StackOfPlates3.3/obj/x86/Debug/StackOfPlates3.3.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/StackOfPlates3.3/StackOfPlates3.3/obj/x86/Debug/StackOfPlates3.3.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/StackOfPlates3.3/StackOfPlates3.3/bin/Debug/StackOfPlates3.3.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/StackOfPlates3.3/StackOfPlates3.3/bin/Debug/StackOfPlates3.3.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/StackOfPlates3.3/StackOfPlates3.3/obj/x86/Debug/StackOfPlates3.3.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/StackOfPlates3.3/StackOfPlates3.3/obj/x86/Debug/StackOfPlates3.3.pdb

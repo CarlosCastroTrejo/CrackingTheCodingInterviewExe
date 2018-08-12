@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3684907B-D5CF-431D-AE46-77C35E06704E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringRotation1.9/Program.cs">
+    <Files>
+      <File FileName="StringRotation1.9/Program.cs" Line="30" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StringRotation1.9 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

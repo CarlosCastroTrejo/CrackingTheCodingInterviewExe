@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/StringRotation1.9/StringRotation1.9/bin/Debug/StringRotation1.9.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/StringRotation1.9/StringRotation1.9/bin/Debug/StringRotation1.9.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/StringRotation1.9/StringRotation1.9/obj/x86/Debug/StringRotation1.9.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/StringRotation1.9/StringRotation1.9/obj/x86/Debug/StringRotation1.9.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/StringRotation1.9/StringRotation1.9/obj/x86/Debug/StringRotation1.9.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Arrays & Strings/StringRotation1.9/StringRotation1.9/obj/x86/Debug/StringRotation1.9.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{138739D1-6667-41AD-A6EE-2692089C17B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Palindrome2.6/Program.cs">
+    <Files>
+      <File FileName="Palindrome2.6/Program.cs" Line="24" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Palindrome2.6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FB01CC63-F453-47C4-B874-8D926A132B35}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortStack3.5/Program.cs">
+    <Files>
+      <File FileName="SortStack3.5/Program.cs" Line="45" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SortStack3.5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
