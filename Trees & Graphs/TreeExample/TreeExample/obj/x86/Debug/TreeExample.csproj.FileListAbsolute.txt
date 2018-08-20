@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Trees & Graphs/TreeExample/TreeExample/bin/Debug/TreeExample.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Trees & Graphs/TreeExample/TreeExample/bin/Debug/TreeExample.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Trees & Graphs/TreeExample/TreeExample/obj/x86/Debug/TreeExample.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Trees & Graphs/TreeExample/TreeExample/obj/x86/Debug/TreeExample.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Trees & Graphs/TreeExample/TreeExample/obj/x86/Debug/TreeExample.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Trees & Graphs/TreeExample/TreeExample/obj/x86/Debug/TreeExample.pdb
