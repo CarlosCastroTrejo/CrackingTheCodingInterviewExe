@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections;
-
+using System.Diagnostics;
 namespace SortStack3
 {
     class MainClass
     {
         public static void Main(string[] args)
         {
+            Stopwatch clock = new Stopwatch();
+            clock.Start();
             Stack myStack = new Stack();
             myStack.Push(10);
             myStack.Push(100);
@@ -26,6 +28,9 @@ namespace SortStack3
 
             }
 
+            clock.Stop();
+
+            Console.WriteLine(clock.Elapsed);
 
         }
 
@@ -40,7 +45,7 @@ namespace SortStack3
                 
 
                 int number = (int)myStack.Pop();
-                if(number>(int)otherStack.Peek())
+                if(number<(int)otherStack.Peek())
                 {
                     otherStack.Push(number);
                 }else

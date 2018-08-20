@@ -1,0 +1,6 @@
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/AnimalShelter3.6/AnimalShelter3.6/bin/Debug/AnimalShelter3.6.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/AnimalShelter3.6/AnimalShelter3.6/bin/Debug/AnimalShelter3.6.pdb
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/AnimalShelter3.6/AnimalShelter3.6/obj/x86/Debug/AnimalShelter3.6.csprojResolveAssemblyReference.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/AnimalShelter3.6/AnimalShelter3.6/obj/x86/Debug/AnimalShelter3.6.csproj.CoreCompileInputs.cache
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/AnimalShelter3.6/AnimalShelter3.6/obj/x86/Debug/AnimalShelter3.6.exe
+/Users/carlosemilianocastrotrejo/Documents/Cracking The Coding Interview/Ejercicios/Stacks & Queues/AnimalShelter3.6/AnimalShelter3.6/obj/x86/Debug/AnimalShelter3.6.pdb
